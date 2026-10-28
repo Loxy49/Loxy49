@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 230" width="360" height="230" role="img" aria-label="A cat sleeping on a pillow">
+  <style>
+    .line { stroke: #5B4B6B; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+    .breathe { transform-box: fill-box; transform-origin: 50% 100%; animation: breathe 3.2s ease-in-out infinite; }
+    .head { animation: nod 3.2s ease-in-out infinite; }
+    .tail { transform-box: view-box; transform-origin: 266px 148px; animation: tail 4s ease-in-out infinite; }
+    .ear { transform-box: fill-box; transform-origin: 50% 100%; animation: twitch 7s ease-in-out infinite; }
+    .pillow { transform-box: fill-box; transform-origin: 50% 100%; animation: squish 3.2s ease-in-out infinite; }
+    .z { fill: #9A86C9; font-family: 'Comic Sans MS', 'Segoe UI', sans-serif; font-weight: 700; opacity: 0; animation: float 3.6s ease-in infinite; }
+    .z2 { animation-delay: 1.2s; }
+    .z3 { animation-delay: 2.4s; }
+    @keyframes breathe { 0%, 100% { transform: scale(1, 1); } 50% { transform: scale(1.015, 1.05); } }
+    @keyframes nod { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(1.5px); } }
+    @keyframes tail { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(5deg); } }
+    @keyframes twitch { 0%, 88%, 100% { transform: rotate(0deg); } 91% { transform: rotate(-12deg); } 94% { transform: rotate(4deg); } }
+    @keyframes squish { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(0.975); } }
+    @keyframes float {
+      0% { opacity: 0; transform: translate(0, 8px); }
+      25% { opacity: 1; }
+      100% { opacity: 0; transform: translate(14px, -26px); }
+    }
+  </style>
+
+  <!-- pillow -->
+  <g class="pillow">
+    <path class="line" fill="#D9CCF0" d="M62,152 Q180,128 298,152 Q314,180 298,208 Q180,226 62,208 Q46,180 62,152 Z"/>
+    <path d="M78,162 Q180,144 282,162 M78,198 Q180,212 282,198" fill="none" stroke="#B6A3DE" stroke-width="2" stroke-dasharray="5 6" stroke-linecap="round"/>
+    <path class="line" fill="none" d="M62,152 l-10,-6 M62,208 l-10,6 M298,152 l10,-6 M298,208 l10,6"/>
+  </g>
+
+  <!-- tail -->
+  <g class="tail">
+    <path d="M266,148 C304,152 304,192 256,186 C232,183 214,180 196,184" fill="none" stroke="#5B4B6B" stroke-width="19" stroke-linecap="round"/>
+    <path d="M266,148 C304,152 304,192 256,186 C232,183 214,180 196,184" fill="none" stroke="#F6E3C8" stroke-width="13" stroke-linecap="round"/>
+    <path d="M282,164 l9,-3 M276,182 l8,4" fill="none" stroke="#E0B98A" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- body -->
+  <g class="breathe">
+    <ellipse class="line" fill="#F6E3C8" cx="198" cy="140" rx="80" ry="40"/>
+    <path d="M182,104 q6,10 0,20 M204,101 q6,10 0,21 M226,105 q6,10 0,19 M246,113 q5,8 0,15" fill="none" stroke="#E0B98A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- front paw -->
+  <ellipse class="line" fill="#F6E3C8" cx="156" cy="172" rx="16" ry="9"/>
+  <path d="M152,170 v4 M160,170 v4" fill="none" stroke="#5B4B6B" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- head -->
+  <g class="head">
+    <g class="ear">
+      <path class="line" fill="#F6E3C8" d="M94,124 L88,90 L116,110 Z"/>
+      <path fill="#F4B6C2" d="M97,116 L94,99 L108,110 Z"/>
+    </g>
+    <path class="line" fill="#F6E3C8" d="M128,108 L154,92 L148,124 Z"/>
+    <path fill="#F4B6C2" d="M134,109 L148,101 L145,116 Z"/>
+    <circle class="line" fill="#F6E3C8" cx="120" cy="140" r="33"/>
+    <path d="M112,110 q3,7 0,12 M122,108 q3,8 0,13" fill="none" stroke="#E0B98A" stroke-width="3.5" stroke-linecap="round"/>
+    <!-- closed eyes -->
+    <path class="line" fill="none" d="M101,141 q7,7 14,0 M126,141 q7,7 14,0"/>
+    <!-- blush -->
+    <ellipse cx="100" cy="153" rx="7" ry="4" fill="#F4B6C2" opacity="0.7"/>
+    <ellipse cx="141" cy="153" rx="7" ry="4" fill="#F4B6C2" opacity="0.7"/>
+    <!-- nose & mouth -->
+    <path fill="#E58FA3" d="M117,148 h7 l-3.5,4 Z"/>
+    <path fill="none" stroke="#5B4B6B" stroke-width="2" stroke-linecap="round" d="M120.5,152 q-3,4 -7,2 M120.5,152 q3,4 7,2"/>
+    <!-- whiskers -->
+    <path fill="none" stroke="#5B4B6B" stroke-width="1.6" stroke-linecap="round" d="M92,149 l-18,-4 M92,154 l-18,2 M149,149 l18,-4 M149,154 l18,2"/>
+  </g>
+
+  <!-- z z z -->
+  <text class="z" x="150" y="92" font-size="16">z</text>
+  <text class="z z2" x="164" y="74" font-size="20">z</text>
+  <text class="z z3" x="180" y="54" font-size="25">z</text>
+</svg>
