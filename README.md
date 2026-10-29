@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=9A86C9&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Miftahush+Syaadah+%F0%9F%8C%99;D3+Informatics+Engineering+Student;INFJ-T+%C2%B7+quiet+coder+%C2%B7+cat+person" alt="Typing intro" />
 
-<img src="./assets/sleepy-cat.svg" width="300" alt="Sleepy cat on a pillow" />
+<img src="./assets/fox-butterfly.svg" width="420" alt="Pixel-art fox watching a butterfly" />
 
 <sub><i>"We have hope, but the world has reality."</i></sub>
 
