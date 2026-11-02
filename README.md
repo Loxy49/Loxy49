@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=9A86C9&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Miftahush+Syaadah+%F0%9F%8C%99;D3+Informatics+Engineering+Student;INFJ-T+%C2%B7+quiet+coder+%C2%B7+cat+person" alt="Typing intro" />
-
 <img src="./assets/fox-butterfly.svg" width="420" alt="Pixel-art fox watching a butterfly" />
 
 <sub><i>"We have hope, but the world has reality."</i></sub>
@@ -10,23 +7,26 @@
 
 ---
 
-### 🌙 About me
+### About me
 
-- 🎓 D3 Informatics Engineering student
-- 📍 Banjarmasin, Indonesia
-- 🧠 INFJ-T: I like to think things through and build them carefully
-- 🌱 Currently doing my OJT internship and exploring web development
-- 📚 Learning: data structures, Laravel, and Flutter
-- 🐾 Fun fact: I code best with a cat nearby
+Hi, I'm Miftahush Syaadah, but most people call me Mita or Sya.
 
-### 🛠️ Tech stack
+I'm really into databases, UI/UX design, and building web interfaces. I do it with the help of AI, of course, but I'm the one steering the ship, kind of like the guide who points the way. AI helps with execution, while the direction and vision stay mine.
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,php,laravel,dart,flutter,html,css,js,mysql,git,github,vscode&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=cpp,php,laravel,dart,flutter,html,css,js,mysql,git,github,vscode&theme=light" alt="Tech stack" />
-  </picture>
-</p>
+I'm currently a student at Banjarmasin State Polytechnic.
+
+Fun fact: I'm actually super clumsy, but I still hope to create things that turn out neat and pretty.
+
+### 🧩 Evidence Board
+
+| Category | Skills |
+|:--|:--|
+|**Database** | MySQL • SQL • Database Design |
+|**UI/UX** | UI/UX Design • Web Interfaces • Figma • Canva |
+|**Languages** | PHP • JavaScript • Dart • C++ • SQL  |
+|**Tech Stack** | Laravel • Flutter • HTML • CSS |
+|**Tools** | Git • GitHub • VS Code |
+|**Workflow** | AI-assisted development |
 
 ### 📊 GitHub stats
 
@@ -48,15 +48,6 @@
   </picture>
 </p>
 
-### 📌 Featured projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [project-uas-ppb-fullstuck](https://github.com/Loxy49/project-uas-ppb-fullstuck) | Final project for mobile programming (UAS PPB) | Laravel · Flutter |
-| [Iventaris-Bakery](https://github.com/Loxy49/Iventaris-Bakery) | Bakery inventory program | C++ |
-| [Queue-LinkedList](https://github.com/Loxy49/Queue-LinkedList) | Queue and linked list practice | C++ |
-| [struct-stack](https://github.com/Loxy49/struct-stack) | Struct and stack practice | C++ |
-
 ### 🐍 Contribution snake
 
 <picture>
@@ -64,7 +55,7 @@
   <img src="https://raw.githubusercontent.com/Loxy49/Loxy49/output/github-snake.svg" alt="Contribution snake" />
 </picture>
 
-### 🤝 Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://www.instagram.com/hadaays"><img src="https://img.shields.io/badge/Instagram-hadaays-9A86C9?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
