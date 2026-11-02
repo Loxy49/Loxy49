@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/fox-butterfly.svg" width="420" alt="Pixel-art fox watching a butterfly" />
+<img src="./assets/fox-bag.svg" width="320" alt="A pixel-art fox popping out of a paper bag" />
 
 <sub><i>"We have hope, but the world has reality."</i></sub>
 
