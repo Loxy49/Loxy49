@@ -32,13 +32,6 @@ Fun fact: I'm actually super clumsy, but I still hope to create things that turn
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
-    <img src="./profile-summary-card-output/github/3-stats.svg" height="170" alt="Stats" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Loxy49&theme=dark&hide_border=true&background=00000000&ring=9A86C9&fire=9A86C9&currStreakLabel=9A86C9" />
     <img src="https://streak-stats.demolab.com?user=Loxy49&hide_border=true&background=FFFFFF00&ring=9A86C9&fire=9A86C9&currStreakLabel=9A86C9" alt="GitHub streak" />
   </picture>
