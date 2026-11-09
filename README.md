@@ -35,10 +35,6 @@ Fun fact: I'm actually super clumsy, but I still hope to create things that turn
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
     <img src="./profile-summary-card-output/github/3-stats.svg" height="170" alt="Stats" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" height="170" alt="Top languages" />
-  </picture>
 </p>
 
 <p align="center">
@@ -65,9 +61,3 @@ Fun fact: I'm actually super clumsy, but I still hope to create things that turn
   <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say_hi-5B4B6B?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   -->
 </p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Loxy49&color=9A86C9&style=flat-square&label=profile+views" alt="Profile views" />
-</div>
